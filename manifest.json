@@ -1,8 +1,9 @@
 {
-  "name": "Tourism Website",
-  "short_name": "Tourism",
+  "name": "Portfolio Website",
+  "short_name": "portfolio",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd"
 }
+
